@@ -1,2 +1,2 @@
 # Backsliding
- Simple regression models in Haskell
+ Simple regression models in Haskell.
